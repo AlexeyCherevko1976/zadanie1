@@ -1,0 +1,12 @@
+body{
+	background: Olive;
+}
+
+.content{
+	margin-left: 20%; /* Отступ слева */
+    margin-top: 20px; /* Отступ сверху */   
+    width: 60%; /* Ширина слоя */
+    background: LightSeaGreen;
+}
+
+
